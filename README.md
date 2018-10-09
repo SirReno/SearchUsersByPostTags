@@ -134,6 +134,7 @@ now you execute
     python multiple.py
 
 If there are posts that have both tags you will start seeing in your terminal something like this:
+
     ...
     12 Boug9iinqqF cottagecountryfrenchie
     ...
