@@ -105,9 +105,9 @@ on this line, you will have to change
     <path/to/cache/folder_in_this_project> for your absolute path (dont know why it has some struggles with relative)
 
 once changed you will be able to run the program
-```
-Usage
-```
+
+### Usage
+
 This project consist in 2 parts, using php to get n number of posts
 and using python to ask for information about those post in a json format.
 
